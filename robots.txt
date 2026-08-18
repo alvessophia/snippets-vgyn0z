@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alvessophia.github.io/snippets-vgyn0z/sitemap.xml
